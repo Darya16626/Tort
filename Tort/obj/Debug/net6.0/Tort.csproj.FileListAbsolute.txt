@@ -1,0 +1,14 @@
+C:\Users\adv_m\source\repos\Tort\Tort\bin\Debug\net6.0\Tort.exe
+C:\Users\adv_m\source\repos\Tort\Tort\bin\Debug\net6.0\Tort.deps.json
+C:\Users\adv_m\source\repos\Tort\Tort\bin\Debug\net6.0\Tort.runtimeconfig.json
+C:\Users\adv_m\source\repos\Tort\Tort\bin\Debug\net6.0\Tort.dll
+C:\Users\adv_m\source\repos\Tort\Tort\bin\Debug\net6.0\Tort.pdb
+C:\Users\adv_m\source\repos\Tort\Tort\obj\Debug\net6.0\Tort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adv_m\source\repos\Tort\Tort\obj\Debug\net6.0\Tort.AssemblyInfoInputs.cache
+C:\Users\adv_m\source\repos\Tort\Tort\obj\Debug\net6.0\Tort.AssemblyInfo.cs
+C:\Users\adv_m\source\repos\Tort\Tort\obj\Debug\net6.0\Tort.csproj.CoreCompileInputs.cache
+C:\Users\adv_m\source\repos\Tort\Tort\obj\Debug\net6.0\Tort.dll
+C:\Users\adv_m\source\repos\Tort\Tort\obj\Debug\net6.0\refint\Tort.dll
+C:\Users\adv_m\source\repos\Tort\Tort\obj\Debug\net6.0\Tort.pdb
+C:\Users\adv_m\source\repos\Tort\Tort\obj\Debug\net6.0\Tort.genruntimeconfig.cache
+C:\Users\adv_m\source\repos\Tort\Tort\obj\Debug\net6.0\ref\Tort.dll
